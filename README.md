@@ -2,11 +2,11 @@
 
 ## Technology
 
-Axon Framework 
-Java 8
-Spring Boot 2
-Swagger 2
-H2 / JPA
+* Axon Framework 
+* Java 8
+* Spring Boot 2
+* Swagger 2
+* H2 / JPA
 
 Currently, the project has no UI, testing is only through Swagger. In the future I will add frontends in AngularJs, maybe :)
 
